@@ -1,7 +1,7 @@
 # torchvision-finetuning
 
 ## Introduction
-* We will perform two types of transfer learning: finetuning and feature extraction, fine-tuning and feature extraction
+* We will perform two types of transfer learning: finetuning and feature extraction
 
 
 ## Dataset
